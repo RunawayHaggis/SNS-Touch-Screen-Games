@@ -4,6 +4,6 @@ This project is the recreation of a number of simple Flash-based games for child
 
 It is very much a work in progress!  
 
-Games recreated so far can be played online here: http://online.special-needs-software.co.uk/
+Games recreated so far can be played online here: https://online.special-needs-software.co.uk/
 
 The original Flash games are here: http://games.special-needs-software.co.uk/
