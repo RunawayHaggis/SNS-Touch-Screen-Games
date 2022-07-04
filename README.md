@@ -1,6 +1,8 @@
 # Touch Screen Games
 
-This project is the recreation of a number of simple Flash-based games for children and adults with severe learning disabilities, originally created for my son. It is very much a work in progress!  
+This project is the recreation of a number of simple Flash-based games for children and adults with severe learning disabilities, originally created for my son. 
+
+It is very much a work in progress!  
 
 Games recreated so far can be played online here: http://online.special-needs-software.co.uk/
 
